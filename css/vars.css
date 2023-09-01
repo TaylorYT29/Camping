@@ -1,0 +1,46 @@
+/* custom propertis */
+
+:root {
+    /* fonts */
+
+    /* font-family */
+    --ff-main: 'Archivo', sans-serif;
+    --ff-secondary: 'Roboto', sans-serif;
+    
+    /* fonts-size */
+    --fs-xl:5rem;
+    --fs-lg:2.5rem;
+    --fs-md:1.125rem;
+    --fs-nm:1rem;
+    --fs-sm:0.875rem
+
+    /* fonts-weigt */
+    --fw-bk:900;
+    --fw-md:500;
+    --fw-rg:400;
+
+
+    /* Colors */
+    --clr-main:hsla(12, 76%, 61%, 1);
+    --crl-main-bg:hsla(15,44%,96%,1);
+    --crl-inner-bg:hsla(12, 67%, 92%, 1);
+    --crl-white:hsla(0,100%,100%,1);
+    --crl-gray:hsla(0,0%,55%,.1);
+    --crl-gray-text:hsla(0,0%,55%,1);
+    --clr-black:hsla(0,0%,0%,1);
+
+    /* 
+    archivo black 80
+    archivo black 40
+    archivo black 18
+
+    roboto regular 18
+    roboto regular 16
+    roboto regular 14
+
+    roboto 18 med
+    roboto 15 med
+ */
+
+}
+
