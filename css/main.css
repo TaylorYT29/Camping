@@ -14,7 +14,7 @@ body {
 }
 
 .hero-container {
-    background: url(/imgs/camping-graphic.webp);
+    background: url(../imgs/header-camping.jpg);
     background-position: center;
     background-size: cover;
     border-bottom-left-radius:6rem;
@@ -219,7 +219,7 @@ body {
 }
 
 .submit-btn{
-    background: url(imgs/icons/send.svg) var(--clr-main);
+    background: url(../imgs/icons/send.svg) var(--clr-main);
     border: none;
     background-repeat: no-repeat;
     border-radius: .75rem;
